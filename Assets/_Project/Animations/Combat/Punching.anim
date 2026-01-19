@@ -31378,7 +31378,7 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 0.51666665
-    functionName: ApplyDamage
+    functionName: PunchDamage
     data: 
     objectReferenceParameter: {fileID: 7400000}
     floatParameter: 0
