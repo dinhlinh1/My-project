@@ -1,0 +1,59 @@
+# ========================
+# Unity generated folders
+# ========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# ========================
+# Visual Studio / Rider
+# ========================
+.vs/
+.idea/
+*.csproj
+*.csproj.user
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# ========================
+# OS generated
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# Crash reports
+# ========================
+sysinfo.txt
+
+# ========================
+# Unity meta cache
+# ========================
+*.pidb
+*.booproj
+*.svd
+
+# ========================
+# Addressables (neu dung)
+# ========================
+AddressableAssetsData/*/Build/
+AddressableAssetsData/*/BuildTarget/
+
+# ========================
+# Logs
+# ========================
+*.log
+
+# ========================
+# Ignore specific asset folders
+# ========================
+Assets/Flooded_Grounds/
+Assets/Models_Player/
+Assets/Models_Enemies/
+
